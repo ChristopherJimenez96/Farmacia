@@ -1,0 +1,23 @@
+{
+    "name": "Sistema de Farmacias",
+    "short_name": "SisFarm",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./assets/images/logo.png",
+            "type": "image/png",
+            "sizes": "241x56"
+        },
+        {
+            "src": "./assets/images/favicon.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        }
+
+    ]
+}
